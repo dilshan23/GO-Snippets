@@ -1,5 +1,7 @@
 package services
 
+//https://github.com/snail007/goproxy/blob/master/services/http.go
+
 import (
 	"fmt"
 	"io"
